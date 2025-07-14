@@ -77,6 +77,12 @@ bash generate_schema.sh
 
 ---
 
+## 參考來源
+
+本專案部分設計參考自 [SQL Schema 轉 Markdown Table](https://blog.darkthread.net/blog/sql-schema-to-markdown-table/)。
+
+---
+
 ## 授權
 
 本專案採用 MIT License。
